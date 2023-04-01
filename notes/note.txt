@@ -1,0 +1,28 @@
+** In other words, a script is a program that is short, simple, and can be written very quickly.
+** Automation is the process of replacing a manual step with one that happens automatically.
+** Automation can: It can save time, reduce errors, increase consistency, and provide a way to centralize solutions and mistakes, making them easier to fix.
+** Python can also run on a variety of machines, such as servers, workstations, PCs, mobile devices, IoT, and more.
+
+** Python is: 😍
+
+a general purpose scripting language;
+
+a popular language used to code a variety of applications;
+
+a frequently used tool for automation;
+
+a cross-platform compatible language;
+
+a beginner-friendly language.
+
+** Python is not: 
+
+a platform-specific / OS-specific scripting language;
+
+a client-side scripting language;
+
+a purely object-oriented programming language.
+
+** Client-side scripting language - Client-side scripting languages, like JavaScript, are used mostly for web programming. The scripts are transferred from a web server to the end-user’s internet browser, then executed in the browser.
+
+
