@@ -26,3 +26,17 @@ a purely object-oriented programming language.
 ** Client-side scripting language - Client-side scripting languages, like JavaScript, are used mostly for web programming. The scripts are transferred from a web server to the end-user’s internet browser, then executed in the browser.
 
 
+** Order of operations
+The order of operations are to be calculated from left to right in the following order: 
+
+Parentheses ( ), { }, [ ]
+
+Exponents xe   (x**e)
+
+Multiplication * and Division /  
+
+Addition + and Subtraction -    
+
+ You might find the PEMDAS mnemonic device to be helpful in remembering the order.   
+
+
