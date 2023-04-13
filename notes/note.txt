@@ -38,5 +38,8 @@ Multiplication * and Division /
 Addition + and Subtraction -    
 
  You might find the PEMDAS mnemonic device to be helpful in remembering the order.   
+ 
+ 
+ ** In Python, text in between quotes -- either single or double quotes -- is a string data type. 
 
 
