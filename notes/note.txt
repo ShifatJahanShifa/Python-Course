@@ -49,4 +49,15 @@ int() - converts a value (usually a float) to an integer data type
 
 float() - converts a value (usually an integer) to a float data type
 
+#### 
+
+The ** operator. To program 25 we do 2 ** 5.
+The built-in pow() function. 23 coded becomes pow(2, 3).
+The math.pow() function. To calculate 35, we do math.pow(3, 5).
+
+use pow() if you need an integer outcome and math.pow() for a floating-point result.
+
+**** pow() can also accept three arguments. In that case the third argument specifies the modulo of the exponentiation (Python Docs, n.d. a). That returns the remainder of exponentiation. Using pow() in that way is more efficient than the equivalent pow(base, exp) % mod. 
+
+
 
