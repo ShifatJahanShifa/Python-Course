@@ -60,4 +60,4 @@ use pow() if you need an integer outcome and math.pow() for a floating-point res
 **** pow() can also accept three arguments. In that case the third argument specifies the modulo of the exponentiation (Python Docs, n.d. a). That returns the remainder of exponentiation. Using pow() in that way is more efficient than the equivalent pow(base, exp) % mod. 
 
 *  If you try to use a variable without first initializing it, you'll run into a NameError. 
-
+* for loop can't be used for float-value in range function
