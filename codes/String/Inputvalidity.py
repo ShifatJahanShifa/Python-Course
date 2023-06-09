@@ -8,6 +8,8 @@ def validateAnswer(answer):
   
 print('Do you think 2+2=4?')
 answer=input()
+#removes any white space
+answer=answer.strip()
 if validateAnswer(answer):
   print('Your assumption is right!')
 else:
